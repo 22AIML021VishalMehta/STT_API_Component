@@ -1,0 +1,1 @@
+uvicorn STT.STT-API:app --reload to run the API server
